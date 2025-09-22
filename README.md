@@ -4,7 +4,7 @@ A Discord bot featuring a character from Murder Drones Called Uzi Doorman for ro
 
 ## Features
 
-- **Slash Commands**: Modern Discord interactions with /commands
+- **Slash Commands**: Modern Discord interactions with !commands
 - **Roleplay Character**: Uzi Doorman with unique personalities
 - **Web Dashboard**: Simple web interface to view bot status
 - **Multiple Response Types**: Each character has unique response pools
@@ -56,27 +56,11 @@ https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=8&scop
 
 #### Option A: Run both bot and web server
 ```bash
-npm start
+npm index.js
 ```
 
-#### Option B: Run only the Discord bot
-```bash
-npm run bot
-```
-
-#### Option C: Run in development mode (both services)
-```bash
-npm run dev
-```
 
 ## Available Commands
-
-### Slash Commands
-- `/ping` - Check if the bot is responsive
-- `/uzi` - Get a response from Uzi Doorman
-- `/help` - Show all available commands
-
-### Legacy Commands (prefix: !)
 - `!ping` - Check if the bot is responsive
 - `!uzi` - Get a response from Uzi Doorman
 - `!help` - Show available commands
