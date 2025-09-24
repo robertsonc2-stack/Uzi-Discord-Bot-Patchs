@@ -2,6 +2,8 @@
 
 btw Not Up to Date
 
+We will Try to Update This Repo Soon with new Files and Info.
+
 A Discord bot featuring a character from Murder Drones Called Uzi Doorman for roleplay interactions.
 
 ## Features
