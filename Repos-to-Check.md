@@ -1,7 +1,3 @@
-/coltonsr77/Amorphous-Uzi/
-
-Please Use The Repo It Has Important Info and Build Data
-
 robertsonc2-stack/Uzi-Discord-Bot-Patchs
 
 ^^^^  We Will Update This Repo 
